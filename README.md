@@ -22,4 +22,4 @@ Requirements
 
 ### Compile:
 ```bash
-gcc -o dining_philosophers main.c -lpthread
+gcc -o namafile.c -lpthread
